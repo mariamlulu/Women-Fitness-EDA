@@ -35,8 +35,7 @@ This project explores daily fitness data from women using Fitbit trackers. The d
 - Build an interactive dashboard in **Power BI** for storytelling.  
 
 ---
-
-## 📂 Project Structure  
+ 
 
 ## 📂 Project Structure  
 
@@ -48,7 +47,3 @@ Women-Fitness-EDA/
 ├── plots/                         # Saved visualizations
 └── README.md                      # Project documentation
 
-├── women_fitness_analysis.ipynb # Main Jupyter Notebook
-├── dailyActivity_merged.csv # Dataset (Fitbit daily activity)
-├── plots/ # Saved visualizations
-└── README.md # Project documentation
