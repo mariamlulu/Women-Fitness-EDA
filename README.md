@@ -38,8 +38,16 @@ This project explores daily fitness data from women using Fitbit trackers. The d
 
 ## 📂 Project Structure  
 
+## 📂 Project Structure  
+
+```text
 Women-Fitness-EDA/
 │
+├── women_fitness_analysis.ipynb   # Main Jupyter Notebook
+├── dailyActivity_merged.csv       # Dataset (Fitbit daily activity)
+├── plots/                         # Saved visualizations
+└── README.md                      # Project documentation
+
 ├── women_fitness_analysis.ipynb # Main Jupyter Notebook
 ├── dailyActivity_merged.csv # Dataset (Fitbit daily activity)
 ├── plots/ # Saved visualizations
